@@ -1,0 +1,54 @@
+.navbar {
+    background-color: #28A745
+}
+
+.card {
+    margin: 30px;
+}
+
+.btn {
+    background-color: #28A745;
+}
+
+.card-text {
+    text-align:justify;
+}
+
+footer {
+    background-color: #28A745;
+    color: #fff;
+    padding: 5px;
+    text-align: center; 
+}
+
+.serv-texto{
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.css-car {
+    margin-top: 30px;
+}
+
+.video-you {
+    margin-bottom: 30px;
+}
+
+.btn-whatsapp {
+    position: fixed;
+    bottom: 30px;
+    height: 20px; 
+    z-index: 9999;
+}
+
+.foto-logo{
+    margin: 30px;
+}
+
+.texto-empresa{
+    text-align: justify;
+}
+
+.contatos-dados{
+    margin: 30px;
+}
